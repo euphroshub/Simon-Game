@@ -1,5 +1,10 @@
-//create a new array called buttonColours and set it to hold the sequence "red", "blue",
-// "green", "yellow"
+//code by k.hardy, part of the web development bootcamp course by Angela Yu
+//working with JavaScript and jQuery
+
+//----------------------------------------------------------------------------------------//
+//----------------------------------------------------------------------------------------//
+
+//create a new array called buttonColours 
 var buttonColours = ["red", "blue", "green", "yellow"];
 //creating a new empty array called gamePattern and user pattern
 var gamePattern = [];
